@@ -1,0 +1,3 @@
+argparse
+arrow
+git+https://github.com/pcostell/ics.py.git
